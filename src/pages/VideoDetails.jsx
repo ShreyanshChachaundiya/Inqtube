@@ -19,6 +19,7 @@ import { SuggestionVideoCard } from "../components";
 
 const VideoDetails = () => {
   const [video, setVideo] = useState();
+  const [like, setLike] = useState(20);
   const [video1, setVideo1] = useState([]);
   const [relatedVideos, setRelatedVideos] = useState();
 
@@ -116,8 +117,8 @@ const VideoDetails = () => {
             </div>
             <div className="flex text-white mt-4 md:mt-0">
               <div className="flex items-center justify-center h-11 px-6 rounded-3xl bg-white/[0.15]">
-                <AiOutlineLike className="text-xl text-white mr-2" />
-               20
+                <AiOutlineLike className="text-xl text-white mr-2 cursor-pointer" onClick={()=>{setLike(21)}}/>
+               {like}
                 <span className="border border-transparent h-[70%] pl-2 text-center py-1 mx-1 text-xl border-l-gray-500">
                   <BiDislike />
                 </span>

@@ -14,7 +14,7 @@ function App() {
         <div className="flex flex-col h-full w-[100vw] overflow-hidden">
           <Header />
           <Routes>
-            <Route path="/:category"  element={<Feed />} />
+            <Route path="/:category" exact  element={<Feed />} />
             <Route path="/" exact element={<Feed />} />
                 <Route
                     path="/searchResult/:searchQuery"
