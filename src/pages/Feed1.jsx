@@ -7,9 +7,9 @@ import { Context } from "../context/contextApi";
 import { SideNav, VideoCard } from "../components";
 import { useParams } from "react-router-dom";
 
-const Feed = () => {
+const Feed1 = () => {
   const { loading, searchResults } = useContext(Context);
-  const { category } = useParams();
+ 
 
   // console.log(category.toLowerCase());
 
@@ -23,9 +23,7 @@ const Feed = () => {
           {!loading &&
             data.map((item, ind) => {
               return (
-                (category=="New"||item.type.toUpperCase() === category) && <VideoCard video={item} id={ind} />
-                // Or you can use a ternary operator for conditional rendering:
-                // category === item.type ? <VideoCard video={item} id={ind} /> : null
+                 <VideoCard video={item} id={ind} />
               );
             })}
         </div>
@@ -34,4 +32,4 @@ const Feed = () => {
   );
 };
 
-export default Feed;
+export default Feed1;

@@ -4,6 +4,7 @@ import { Header } from "./components";
 import { Feed, SearchResult, VideoDetails } from "./pages";
 import { AppContext } from "./context/contextApi";
 import Check from "./pages/Check";
+import Feed1 from "./pages/Feed1";
 
 // Created by Syprogrammer Github:- https://github.com/syprogrammer
 
@@ -14,8 +15,8 @@ function App() {
         <div className="flex flex-col h-full w-[100vw] overflow-hidden">
           <Header />
           <Routes>
-            <Route path="/:category" exact  element={<Feed />} />
-            <Route path="/" exact element={<Feed />} />
+            <Route path="/:category" exact element={<Feed />} />
+            <Route path="/" exact element={<Feed1/>} />
                 <Route
                     path="/searchResult/:searchQuery"
                     element={<SearchResult />}
