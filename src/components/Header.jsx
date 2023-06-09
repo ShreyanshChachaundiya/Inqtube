@@ -57,7 +57,7 @@ const Header = () => {
           </div>
         )}
         <Link to="/" className="flex h-5 items-center">
-          <img
+          {/* <img
             className="h-full hidden md:block"
             src="./yt-logo.png"
             alt="Youtube"
@@ -66,7 +66,8 @@ const Header = () => {
             className="h-full md:hidden"
             src="./yt-logo-mobile.png"
             alt="Youtube"
-          />
+          /> */}
+          <span className="text-white text-2xl font-semibold"><span className="text-red-500">GOI </span>Tube</span>
         </Link>
       </div>
       <div className="group flex items-center">
