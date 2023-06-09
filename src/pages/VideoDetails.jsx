@@ -64,15 +64,24 @@ const VideoDetails = () => {
     <div className="flex justify-center flex-row  bg-black overflow-y-scroll">
       <div className="w-full max-w-[1280px] flex flex-col lg:flex-row">
         <div className="flex flex-col lg:w-[calc(100%-350px)] xl:w-[calc(100%-400px)] px-4 py-3 lg:py-6 h-fit">
-          <div className=" h-[200px] md:h-[400px] lg:h-[400px] xl:h-[550px] ml-[-16px] lg:ml-0 mr-[-16px] lg:mr-0">
-          <video
+          <div className=" h-[200px] md:h-[400px] lg:h-[400px] xl:h-[550px] ml-[-16px] lg:ml-0 mr-[-16px] lg:mr-0 overflow-hidden">
+          {video1[0]?.type==="MIB"?<video
               src={video1[0]?.url}
               controls
               width="100%"
-              height="110%"
-              style={{ backgroundColor: "#000000" }}
+              height="100%"
+              style={{ backgroundColor: "#000000",objectFit:"contain" }}
               playing={true}
-            />
+              // style={{  }}
+            />:<video
+              src={video1[0]?.url}
+              controls
+              width="100%"
+              height="100%"
+              style={{ backgroundColor: "#000000", overflow:"hidden", }}
+              playing={true}
+              // style={{  }}
+            />}
           </div>
           {/* ------------- video title --------------------  */}
           <div className="text-white text-left font-bold text-sm md:text-xl mt-1 line-clamp-2">

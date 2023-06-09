@@ -37,26 +37,26 @@ const categories = [
   // { name: "Blogs", icon: <FaRss />, type: "menu" },
   // { name: "Playlist", icon: <FaPlayCircle />, type: "menu", divider: true },
   {
-    name: "GOI",
+    name: "MHA",
     icon: (
       <img
-        src="https://goi.inqtube.com/upload/images/categories/videos/1679730247519___main.png"
+        src="https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png"
         className="w-[25px]"
       />
     ),
     type: "menu",
     heading: "CATEGORIES"
   },
-  {
-    name: "STPI",
-    icon: (
-      <img
-        src="https://goi.inqtube.com/upload/images/categories/videos/1679733003567_q__main.jpg"
-        className="w-[25px]"
-      />
-    ),
-    type: "menu",
-  },
+  // {
+  //   name: "STPI",
+  //   icon: (
+  //     <img
+  //       src="https://goi.inqtube.com/upload/images/categories/videos/1679733003567_q__main.jpg"
+  //       className="w-[25px]"
+  //     />
+  //   ),
+  //   type: "menu",
+  // },
   {
     name: "PMO",
     icon: (
@@ -67,16 +67,16 @@ const categories = [
     ),
     type: "menu",
   },
-  {
-    name: "Finance Ministry",
-    icon: (
-      <img
-        src="https://goi.inqtube.com/upload/images/categories/videos/1679730247519___main.png"
-        className="w-[25px]"
-      />
-    ),
-    type: "menu",
-  },
+  // {
+  //   name: "Finance Ministry",
+  //   icon: (
+  //     <img
+  //       src="https://goi.inqtube.com/upload/images/categories/videos/1679730247519___main.png"
+  //       className="w-[25px]"
+  //     />
+  //   ),
+  //   type: "menu",
+  // },
   {
     name: "MOD",
     icon: (
@@ -88,7 +88,7 @@ const categories = [
     type: "menu",
   },
   {
-    name: "MeitY",
+    name: "MEA",
     icon: (
       <img
         src="https://goi.inqtube.com/upload/images/categories/videos/1679730247519___main.png"
@@ -127,36 +127,36 @@ const categories = [
     ),
     type: "menu",
   },
-  {
-    name: "State Of UP",
-    icon: (
-      <img
-        src="https://goi.inqtube.com/upload/images/categories/videos/1679302352412_u__main.png"
-        className="w-[25px]"
-      />
-    ),
-    type: "menu",
-  },
-  {
-    name: "janpratnidhi",
-    icon: (
-      <img
-        src="https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png"
-        className="w-[25px]"
-      />
-    ),
-    type: "menu",
-  },
-  {
-    name: "lokvani",
-    icon: (
-      <img
-        src="https://goi.inqtube.com/upload/images/categories/videos/1679818824022_b__main.jpg"
-        className="w-[25px]"
-      />
-    ),
-    type: "menu",
-  },
+  // {
+  //   name: "State Of UP",
+  //   icon: (
+  //     <img
+  //       src="https://goi.inqtube.com/upload/images/categories/videos/1679302352412_u__main.png"
+  //       className="w-[25px]"
+  //     />
+  //   ),
+  //   type: "menu",
+  // },
+  // {
+  //   name: "janpratnidhi",
+  //   icon: (
+  //     <img
+  //       src="https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png"
+  //       className="w-[25px]"
+  //     />
+  //   ),
+  //   type: "menu",
+  // },
+  // {
+  //   name: "lokvani",
+  //   icon: (
+  //     <img
+  //       src="https://goi.inqtube.com/upload/images/categories/videos/1679818824022_b__main.jpg"
+  //       className="w-[25px]"
+  //     />
+  //   ),
+  //   type: "menu",
+  // },
 ];
 
 // ------------importing component --------------
@@ -221,8 +221,8 @@ const SideNav = () => {
             </React.Fragment>
           );
         })}
-        <hr className="my-3 border-white/[0.2] text-white" />
-        <div>
+        {/* <hr className="my-3 border-white/[0.2] text-white" /> */}
+        {/* <div>
           <span className="text-white mb-7 text-lg">SETTINGS</span>
 
           <label class="relative inline-flex items-center cursor-pointer mt-3">
@@ -232,7 +232,7 @@ const SideNav = () => {
               Adult Content
             </span>
           </label>
-        </div>
+        </div> */}
         <hr className="my-3 border-white/[0.2] text-white" />
         <div>
           <span className="text-white  text-[1rem]">Follow US ON</span>

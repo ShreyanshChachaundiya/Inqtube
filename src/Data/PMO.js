@@ -244,7 +244,8 @@ export const data = [
   },
   {
     id: 23,
-    title: "#PPC2023_ Hon MoS for Edu. Dr. Subhas Sarkar shares his personal experience a...",
+    title:
+      "#PPC2023_ Hon MoS for Edu. Dr. Subhas Sarkar shares his personal experience a...",
     type: "MOE",
     author: {
       title: "MOE",
@@ -274,7 +275,8 @@ export const data = [
   },
   {
     id: 26,
-    title: "A day filled with music, dance & more to celebrate the spirit of #EkBharatShr...",
+    title:
+      "A day filled with music, dance & more to celebrate the spirit of #EkBharatShr...",
     type: "MOE",
     author: {
       title: "MOE",
@@ -284,7 +286,8 @@ export const data = [
   },
   {
     id: 27,
-    title: "Band performance by students of Prince Academy, Sikar, Rajasthan at National ...",
+    title:
+      "Band performance by students of Prince Academy, Sikar, Rajasthan at National ...",
     type: "MOE",
     author: {
       title: "MOE",
@@ -374,7 +377,8 @@ export const data = [
   },
   {
     id: 36,
-    title: "Raksha Mantri addressing the 1st India-Africa Army Chiefs’ Conclave in Pune...",
+    title:
+      "Raksha Mantri addressing the 1st India-Africa Army Chiefs’ Conclave in Pune...",
     type: "MOD",
     author: {
       title: "MOD",
@@ -404,7 +408,8 @@ export const data = [
   },
   {
     id: 39,
-    title: "The Journey of 75 years of Incredible India _ 3D Projection Mapping Show.mp4",
+    title:
+      "The Journey of 75 years of Incredible India _ 3D Projection Mapping Show.mp4",
     type: "MOD",
     author: {
       title: "MOD",
@@ -412,7 +417,310 @@ export const data = [
     },
     url: "http://graphhene.in/videos/MoD/The%20Journey%20of%2075%20years%20of%20Incredible%20India%20_%203D%20Projection%20Mapping%20Show.mp4",
   },
+  {
+    id: 40,
+    title: "A tribute to the Corona Warriors.mp4",
+    type: "MHA",
+    author: {
+      title: "MHA",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MHA/A%20tribute%20to%20the%20Corona%20Warriors.mp4",
+  },
+  {
+    id: 41,
+    title: "BSF Kolkata helping poor & needy.mp4",
+    type: "MHA",
+    author: {
+      title: "MHA",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MHA/BSF%20Kolkata%20helping%20poor%20%26%20needy.mp4",
+  },
+  {
+    id: 42,
+    title: "CISF initiative in Corona.mp4",
+    type: "MHA",
+    author: {
+      title: "MHA",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MHA/CISF%20initiative%20in%20Corona.mp4",
+  },
+  {
+    id: 43,
+    title: "Do Gaz ki Doori _ National Guidelines COVID 19.mp4",
+    type: "MHA",
+    author: {
+      title: "MHA",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MHA/Do%20Gaz%20ki%20Doori%20_%20National%20Guidelines%20COVID%2019.mp4",
+  },
+  {
+    id: 44,
+    title: "Inter State Movement of stranded people.mp4",
+    type: "MHA",
+    author: {
+      title: "MHA",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MHA/Inter%20State%20Movement%20of%20stranded%20people.mp4",
+  },
+  {
+    id: 45,
+    title: "MHA latest advisory on migrant labourers.mp4",
+    type: "MHA",
+    author: {
+      title: "MHA",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MHA/MHA%20latest%20advisory%20on%20migrant%20labourers.mp4",
+  },
 
+  {
+    id: 46,
+    title: "MHA on Indians coming from other countries.mp4",
+    type: "MHA",
+    author: {
+      title: "MHA",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MHA/MHA%20on%20Indians%20coming%20from%20other%20countries.mp4",
+  },
 
+  {
+    id: 47,
+    title: "MHA update on transport of labourers and students.mp4",
+    type: "MHA",
+    author: {
+      title: "MHA",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MHA/MHA%20update%20on%20transport%20of%20labourers%20and%20students.mp4",
+  },
 
+  {
+    id: 48,
+    title: "Movement of bus & trains for migrants.mp4",
+    type: "MHA",
+    author: {
+      title: "MHA",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MHA/Movement%20of%20bus%20%26%20trains%20for%20migrants.mp4",
+  },
+  {
+    id: 49,
+    title: "Security of frontline healthcare workers.mp4",
+    type: "MHA",
+    author: {
+      title: "MHA",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MHA/Security%20of%20frontline%20healthcare%20workers.mp44",
+  },
+  {
+    id: 50,
+    title:
+      "EAM_ Closing remarks of the 1st India-Namibia Joint Commission Meeting",
+    type: "MEA",
+    author: {
+      title: "MEA",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MEA/EAM_%20Closing%20remarks%20of%20the%201st%20India-Namibia%20Joint%20Commission%20Meeting.mp4",
+  },
+  {
+    id: 51,
+    title: "EAM_ Exchange of Agreements and Joint Press Statements in Mald",
+    type: "MEA",
+    author: {
+      title: "MEA",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MEA/EAM_%20Exchange%20of%20Agreements%20and%20Joint%20Press%20Statements%20in%20Maldives%20%28January%2018%2C%20.mp4",
+  },
+  {
+    id: 52,
+    title: "EAM_ Interaction with the Indian Community in Kampala, Uganda",
+    type: "MEA",
+    author: {
+      title: "MEA",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MEA/EAM_%20Interaction%20with%20the%20Indian%20Community%20in%20Kampala%2C%20Uganda.mp4",
+  },
+  {
+    id: 53,
+    title: "EAM_ Opening Remarks at the India-SICA Ministerial Meeting",
+    type: "MEA",
+    author: {
+      title: "MEA",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MEA/EAM_%20Opening%20Remarks%20at%20the%20India-SICA%20Ministerial%20Meeting.mp4",
+  },
+  {
+    id: 54,
+    title: "India-Japan_ Press Statements (March 20, 2023)",
+    type: "MEA",
+    author: {
+      title: "MEA",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MEA/India-Japan_%20Press%20Statements%20%28March%2020%2C%202023%29.mp4",
+  },
+  {
+    id: 55,
+    title: "Media Stakeout by EAM at UN HQ in New York (December 15, 2022).",
+    type: "MEA",
+    author: {
+      title: "MEA",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MEA/Media%20Stakeout%20by%20EAM%20at%20UN%20HQ%20in%20New%20York%20%28December%2015%2C%202022%29.mp4",
+  },
+  {
+    id: 56,
+    title:
+      "Opening Remarks by EAM at the meeting with FM of Republic of Korea (April 07,...",
+    type: "MEA",
+    author: {
+      title: "MEA",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MEA/Opening%20Remarks%20by%20EAM%20at%20the%20meeting%20with%20FM%20of%20Republic%20of%20Korea%20%28April%2007%2C%2020.mp4",
+  },
+  {
+    id: 57,
+    title:
+      "PM Narendra Modi, French President Emmanuel Macron hold virtual meet (Februar...",
+    type: "MEA",
+    author: {
+      title: "MEA",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MEA/PM%20Narendra%20Modi%2C%20French%20President%20Emmanuel%20Macron%20hold%20virtual%20meet%20%28February%201.mp4",
+  },
+  {
+    id: 58,
+    title: "President’s interaction with the Indian Community in Suriname",
+    type: "MEA",
+    author: {
+      title: "MEA",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MEA/President%E2%80%99s%20interaction%20with%20the%20Indian%20Community%20in%20Suriname.mp4",
+  },
+  {
+    id: 59,
+    title: "Statement by External Affairs Minister at No Money for Terror Conf",
+    type: "MEA",
+    author: {
+      title: "MEA",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MEA/Statement%20by%20External%20Affairs%20Minister%20at%20No%20Money%20for%20Terror%20Conference%20%28Novemb.mp4",
+  },
+  {
+    id: 60,
+    title: "#DailyWrap _ 07-06-2023",
+    type: "MIB",
+    author: {
+      title: "MIB",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MI%26B/%23DailyWrap%20_%2007-06-2023.mp4",
+  },
+  {
+    id: 61,
+    title: "#HarGharJal for a 'Behtar Kal'!",
+    type: "MIB",
+    author: {
+      title: "MIB",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MI%26B/%23DailyWrap%20_%2007-06-2023.mp4",
+  },
+  {
+    id: 62,
+    title: "#Weeknama _ 21-05-2023.mp4",
+    type: "MIB",
+    author: {
+      title: "MIB",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MI%26B/%23Weeknama%20_%2004-06-2023.mp4",
+  },
+  {
+    id: 63,
+    title: "#Weeknama _ 28-05-2023.mp4",
+    type: "MIB",
+    author: {
+      title: "MIB",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MI%26B/%23Weeknama%20_%2021-05-2023.mp4",
+  },
+  {
+    id: 64,
+    title: "#Weeknama _ 28-05-2023.mp4",
+    type: "MIB",
+    author: {
+      title: "MIB",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MI%26B/%23Weeknama%20_%2028-05-2023.mp4",
+  },
+  {
+    id: 65,
+    title: "दुनिया के आर्थिक नक्शे पर 'ब्�...",
+    type: "MIB",
+    author: {
+      title: "MIB",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MI%26B/%E0%A4%A6%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%20%E0%A4%95%E0%A5%87%20%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95%20%E0%A4%A8%E0%A4%95%E0%A5%8D%E0%A4%B6%E0%A5%87%20%E0%A4%AA%E0%A4%B0%20%27%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%9F%20%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%89%E0%A4%9F%27%20%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%21%F0%9F%87%AE%F0%9F%87%B3%F0%9F%93%88.mp4",
+  },
+  {
+    id: 66,
+    title: "दुनिया के आर्थिक नक्शे पर 'ब्�...",
+    type: "MIB",
+    author: {
+      title: "MIB",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MI%26B/%E0%A4%A6%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%20%E0%A4%95%E0%A5%87%20%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95%20%E0%A4%A8%E0%A4%95%E0%A5%8D%E0%A4%B6%E0%A5%87%20%E0%A4%AA%E0%A4%B0%20%27%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%9F%20%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%89%E0%A4%9F%27%20%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%21%F0%9F%87%AE%F0%9F%87%B3%F0%9F%93%88.mp4",
+  },
+  {
+    id: 67,
+    title: "पूरा होता इंडिया फर्स्ट का सप...",
+    type: "MIB",
+    author: {
+      title: "MIB",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MI%26B/%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A4%BE%20%E0%A4%B9%E0%A5%8B%E0%A4%A4%E0%A4%BE%20%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE%20%E0%A4%AB%E0%A4%B0%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%9F%20%E0%A4%95%E0%A4%BE%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A4%BE.mp4",
+  },
+  {
+    id: 68,
+    title: "भारत ही नहीं, विदेशों की कई प्�...",
+    type: "MIB",
+    author: {
+      title: "MIB",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MI%26B/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%20%E0%A4%B9%E0%A5%80%20%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82%2C%20%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%88%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%81%E0%A4%96%20%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%87%20%E0%A4%9C%E0%A5%80%E0%A4%B5%E0%A4%A8%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AD%E0%A5%80%20%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%87%20%E0%A4%9F%E0%A5%80%E0%A4%9A%E0%A4%B0%E0%A5%8D%E0%A4%B8%20%E0%A4%95%E0%A4%BE%20%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%20%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%A6%E0%A4%BE%E0%A4%A8%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20.mp4",
+  },
+  {
+    id: 69,
+    title: "मध्यम वर्ग को सक्षम करते भारत...",
+    type: "MIB",
+    author: {
+      title: "MIB",
+      url: "https://goi.inqtube.com/upload/images/categories/videos/1679302442750_m__main.png",
+    },
+    url: "http://graphhene.in/videos/MI%26B/%E0%A4%AE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%AE%20%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%97%20%E0%A4%95%E0%A5%8B%20%E0%A4%B8%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%AE%20%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A5%87%20%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%20%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0%20%E0%A4%95%E0%A5%87%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A4%BE%E0%A4%B8.mp4",
+  },
 ];
