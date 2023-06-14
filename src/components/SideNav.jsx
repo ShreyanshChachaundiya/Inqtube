@@ -23,10 +23,10 @@ import { FaHeadphones, FaUser, FaListAlt, FaRss, FaPlayCircle } from "react-icon
 
 // ----------------------- Creating an array of all categories -----------------
 const categories = [
-  { name: "New", icon: <AiFillHome />, type: "home" },
-  { name: "Latest Videos", icon: <BsFillCameraVideoFill />, type: "category" },
-  { name: "Trending Videos", icon: <BiTrendingUp />, type: "category" },
-  { name: "Top Videos", icon: <IoMdPodium />, type: "category", divider: true },
+  // { name: "New", icon: <AiFillHome />, type: "home" },
+  // { name: "Latest Videos", icon: <BsFillCameraVideoFill />, type: "category" },
+  // { name: "Trending Videos", icon: <BiTrendingUp />, type: "category" },
+  // { name: "Top Videos", icon: <IoMdPodium />, type: "category", divider: true },
   // { name: "Videos", icon: <BsFillCameraVideoFill />, type: "category", heading: "MENUS" },
   // { name: "Live", icon: <BsFillPlayFill />, type: "category",  },
   // { name: "Channels", icon: <BsFillFileEarmarkPlayFill />, type: "category" },
