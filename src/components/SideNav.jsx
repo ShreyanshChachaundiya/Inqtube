@@ -234,7 +234,7 @@ const SideNav = () => {
           </label>
         </div> */}
         <hr className="my-3 border-white/[0.2] text-white" />
-        <div>
+        {/* <div>
           <span className="text-white  text-[1rem]">Follow US ON</span>
           <div className="flex justify-around my-4">
             <SocialIcon
@@ -259,13 +259,13 @@ const SideNav = () => {
             />
           </div>
         </div>
-        <hr className="my-3 border-white/[0.2] text-white" />
-        <span className="text-white text-lg mb-5">
+        <hr className="my-3 border-white/[0.2] text-white" /> */}
+        {/* <span className="text-white text-lg mb-5">
           Privacy Terms of Service Contact
         </span>
         <span className="text-gray-400 text-sm">
           Copyright © 2023 ClickHere.Video. All Rights Reserved.
-        </span>
+        </span> */}
         <div className="text-white/[0.5] text-[12px]"></div>
       </div>
     </div>
